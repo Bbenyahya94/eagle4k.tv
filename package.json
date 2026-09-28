@@ -1,0 +1,6 @@
+{
+  "name": "eagle4k-tv",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "build": "node scripts/build.mjs", "preview": "node scripts/preview.mjs" }
+}

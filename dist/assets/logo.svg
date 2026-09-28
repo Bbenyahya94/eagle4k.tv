@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Eagle IPTV">
+  <rect width="512" height="512" rx="96" fill="#05070a"/>
+  <path d="M78 263 256 85l178 178-178 164z" fill="#2cf4ff"/>
+  <path d="m151 266 105-105 105 105-105 96z" fill="#05070a"/>
+  <path d="m207 263 49-49 49 49-49 44z" fill="#dce9ee"/>
+</svg>
